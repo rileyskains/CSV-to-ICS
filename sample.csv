@@ -1,0 +1,4 @@
+﻿EventTitle,StartDateTime,EndDateTime,Location,Description,Email,FirstName,LastName
+Test Event 1,2024-01-22T17:00:00.000Z,2024-01-22T18:00:00.000Z,San Francisco CA,Longer Description,abcdefghij@google.com,Bob,Smith
+Test Event 2,2024-01-23T19:00:00.000Z,2024-01-23T21:00:00.000Z,New York NY,Missing times are OK,klmnopqrst@yahoo.com,Jane,Doe
+Test Event 3,2024-01-24T23:00:00.000Z,2024-01-25T00:00:00.000Z,Las Vegas NV,Start date and end date are different,uvwxyz@outlook.com,Fred,Rogers
